@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KilianLevasseur.github.io/handbook-ytowne/sitemap.xml
